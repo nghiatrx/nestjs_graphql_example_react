@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Post({ post }) {
   return (
     <div style={{ padding: '10px', borderBottom: '1px solid #ccc' }}>
